@@ -19,6 +19,7 @@ sense of touch. We can have an insightful information out of the comprehensive a
 help us save a lot of time and energy. 
 
 ## Summarization Process
-![image](https://user-images.githubusercontent.com/58966938/142477082-a0675f4e-ed63-451d-ad6d-6d64c4ef0e40.png)
+![Block Diagram](https://user-images.githubusercontent.com/58966938/142477207-a9d9a4ce-d351-474d-a34a-8b769013e97c.jpg)
+
 
 
