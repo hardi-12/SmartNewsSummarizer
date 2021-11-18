@@ -17,3 +17,8 @@ There are a number of methods for blind people to read text. So, we present a me
 impaired people based on the sense of sound which is obviously better and more accurate than the 
 sense of touch. We can have an insightful information out of the comprehensive articles that will 
 help us save a lot of time and energy. 
+
+## Summarization Process
+![image](https://user-images.githubusercontent.com/58966938/142477082-a0675f4e-ed63-451d-ad6d-6d64c4ef0e40.png)
+
+
